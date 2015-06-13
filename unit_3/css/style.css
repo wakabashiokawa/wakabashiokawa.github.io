@@ -1,9 +1,19 @@
 h1{
 	color: #008000;
+	text-align: center;
+	font-weight: bold;
 }
 body{
 	background-color: #808000;
 }
 #slogan {
 	color: #fff;
+}
+ul{
+	text-align: center;
+}
+p{ 
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
 }
