@@ -5,15 +5,20 @@ h1{
 }
 body{
 	background-color: #808000;
-}
+} 
 #slogan {
 	color: #fff;
 }
-ul{
-	text-align: center;
+ul{font-family: 'Roboto Slab', serif;
+   text-align: center; 
+   font-weight: bold;
+   list-style: none;
 }
 p{ 
 	text-align: center;
 	font-style: italic;
-	text-decoration: underline;
+	text-decoration: underline; 
+}
+img{
+	width: 100%; 
 }
